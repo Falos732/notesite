@@ -1,0 +1,8 @@
+.redirect_button  {
+    position: absolute;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+  }
+  
+  /* On mouse-over */
