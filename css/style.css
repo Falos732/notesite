@@ -1,8 +1,39 @@
-.redirect_button  {
+.home_button  {
     position: absolute;
-    top:50%;
+    top:2;
+    left: 33;
+    width: 33;
+    height: 33;
     background-color:#0a0a23;
     color: #fff;
-  }
-  
-  /* On mouse-over */
+}
+
+.programmation_button {
+    position: absolute;
+    top:33%;
+    left: 1%;
+    width: 31%;
+    height: 33%;
+    background-color:#0a0a23;
+    color: #fff;
+}
+
+.reseau_button {
+    position: absolute;
+    top:33%;
+    left: 33%;
+    width: 33%;
+    height: 33%;
+    background-color:#0a0a23;
+    color: #fff;
+}
+
+.soutien_button {
+    position: absolute;
+    top:33%;
+    left: 67%;
+    width: 33%;
+    height: 33%;
+    background-color:#0a0a23;
+    color: #fff;
+}
