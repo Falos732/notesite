@@ -13,7 +13,15 @@
     width: 23.75%;
     height: 33%;
     background-color:#0000ff;
-    color: #fff;
+    color: #000000;
+    border-radius: 20px;
+    font-size: 28px;
+}
+
+.image_button {
+    position:static;
+    width: 97%;
+    height: 80%;
     border-radius: 20px;
     font-size: 28px;
 }
@@ -22,7 +30,7 @@
     position: absolute;
     top:33%;
     left: 1%;
-    background-image: url("../image/python.jpg");
+    opacity: 100%;
     background-position:center;
     background-size:cover;
 }
@@ -50,7 +58,10 @@
     font-size: 80px;
 }
 
-
+.note_text {
+    width: 50%;
+    height: 50%;
+}
 
 
 
