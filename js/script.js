@@ -1,19 +1,19 @@
 function programmation_click() {
-    window.location.href = "../html/programmation.html";
+    window.location.href = "programmation.html";
 }
 
 function reseau_click() {
-    window.location.href = "../html/reseau.html";
+    window.location.href = "reseau.html";
 }
 
 function os_click() {
-    window.location.href = "../html/os.html";
+    window.location.href = "os.html";
 }
 
 function soutien_click() {
-    window.location.href = "../html/soutien.html";
+    window.location.href = "soutien.html";
 }
 
 function home_click() {
-    window.location.href = "../html/index.html";
+    window.location.href = "index.html";
 }
