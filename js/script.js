@@ -15,5 +15,5 @@ function soutien_click() {
 }
 
 function home_click() {
-    window.location.href = "../html/index.html";
+    window.location.href = "../index.html";
 }
